@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SpendTracker.Entities/SpendTracker.Entities.csproj" Id="8b798e31-33e3-4fe4-9aa4-05c096e99d16" />
+  <Project Path="SpendTracker.Repositories/SpendTracker.Repositories.csproj" Id="0b1fc552-a18b-401f-a38d-db9a1fd368ce" />
+  <Project Path="SpendTracker.Services/SpendTracker.Services.csproj" Id="3f6b936d-6d81-49d1-a373-61e8041f2558" />
+  <Project Path="SpendTracker.WebApi/SpendTracker.WebApi.csproj" Id="9676db0f-93bb-47c7-ad3d-0e7c2b6891b4" />
+</Solution>
