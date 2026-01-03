@@ -1,4 +1,4 @@
-﻿namespace SpendTracker.Entities.Entities;
+﻿namespace SpendTracker.Entities.Models;
 
 public class Expense : BaseEntity
 {

@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using SpendTracker.Entities.Entities;
+using SpendTracker.Entities.Models;
 
 namespace SpendTracker.Repositories.Configurations;
 

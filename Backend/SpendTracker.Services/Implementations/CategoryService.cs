@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SpendTracker.Entities.Entities;
+using SpendTracker.Entities.Models;
 using SpendTracker.Repositories.Interfaces;
 using SpendTracker.Services.Interfaces;
 

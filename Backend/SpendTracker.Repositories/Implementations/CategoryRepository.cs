@@ -1,4 +1,4 @@
-﻿using SpendTracker.Entities.Entities;
+﻿using SpendTracker.Entities.Models;
 using SpendTracker.Repositories.Contexts;
 using SpendTracker.Repositories.Interfaces;
 

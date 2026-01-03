@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using SpendTracker.Entities.Entities;
+using SpendTracker.Entities.Models;
+
 
 namespace SpendTracker.Repositories.Configurations;
 
@@ -25,21 +26,7 @@ public class CategoryConfig : IEntityTypeConfiguration<Category>
             new Category
             {
                 Id = 1,
-                Title = "Gıda",
-                CreatedAt = new DateTime(2025, 1, 1, 0, 0, 0, DateTimeKind.Utc),
-                IsDeleted = false
-            },
-            new Category
-            {
-                Id = 2,
-                Title = "Ulaşım",
-                CreatedAt = new DateTime(2025, 1, 1, 0, 0, 0, DateTimeKind.Utc),
-                IsDeleted = false
-            },
-            new Category
-            {
-                Id = 3,
-                Title = "Eğlence",
+                Title = "Diğer",
                 CreatedAt = new DateTime(2025, 1, 1, 0, 0, 0, DateTimeKind.Utc),
                 IsDeleted = false
             }
